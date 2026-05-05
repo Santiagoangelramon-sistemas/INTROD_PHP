@@ -33,3 +33,25 @@ Los elementos se guardan en posiciones numéricas llamadas índices, que comienz
 En lugar de números, se utilizan claves personalizadas para identificar cada valor. Se escriben en formato clave => valor, lo que permite asociar etiquetas significativas a los datos.
 
 Los arrays asociativos son especialmente útiles cuando se necesita relacionar información con nombres o categorías, como los detalles de un usuario (ejemplo: "nombre" => "Ana").
+
+# Operados
+
+## Aritmeticos
+
+Los operadores aritméticos son las herramientas básicas de procesamiento de cualquier sistema. Su importancia radica en tres puntos:
+
+## asignacion
+
+Su función es gestionar el almacenamiento de datos; sin ellos, no podríamos guardar los resultados de nuestros cálculos.
+
+## comparacion
+
+Son la base de la toma de decisiones. Permiten que el programa pregunte: "¿Es el usuario mayor de edad?" o "¿Hay stock suficiente?".
+
+## logica
+
+Permiten crear reglas complejas. Sin ellos, no podrías validar condiciones múltiples como: "Si tiene usuario Y la contraseña es correcta".
+
+## Incremento
+
+Su función es el control de repetición. Son esenciales para recorrer listas de datos o crear cronómetros y contadores.
