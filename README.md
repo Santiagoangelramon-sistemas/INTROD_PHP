@@ -55,3 +55,5 @@ Permiten crear reglas complejas. Sin ellos, no podrías validar condiciones múl
 ## Incremento
 
 Su función es el control de repetición. Son esenciales para recorrer listas de datos o crear cronómetros y contadores.
+
+![consulta1](Img/IntroduccionPhp_tema1.png "consulta1")
